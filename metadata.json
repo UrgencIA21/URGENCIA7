@@ -1,0 +1,7 @@
+{
+  "name": "UrgêncIA",
+  "description": "Seu assistente inteligente para primeiros socorros e emergências médicas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
